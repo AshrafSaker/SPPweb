@@ -1,16 +1,16 @@
 html{
-    background-color: rgb(177, 179, 179);
+    background-color: rgb(211, 223, 250);
     color: rgb(67, 55, 55);
-    font-weight: bolder;
-    
+    font-weight: bolder;    
 }
+
 h1{
     color: honeydew;
     text-align: center;
-    background-color: rgb(128, 163, 181);
-    font-size: 200%;
+    background-color: rgb(79, 177, 226);
+    font-size: 350%%;
     font-style: italic;
-    height: 150%;
+    height: 300%;
     font-weight: bold; 
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -26,7 +26,7 @@ summary{
     lighting-color : blue;
 }
 h2{
-    color: darkblue;
+    color: rgb(11, 36, 1);
 }
 #facebook{
     display: flex;
@@ -35,8 +35,21 @@ button{
     font-weight: bolder;
     background-color: rgb(14, 150, 235);
     color: blanchedalmond;
+    flex-direction: row;
     border: solid 1px rgb(60, 25, 156);
+    
+    
+
 }
 li{
     color: rgb(200, 219, 212);
+}
+nav{
+    flex-direction: row;
+    position: fixed;
+    
+}
+
+header{
+    position: fixed;
 }
