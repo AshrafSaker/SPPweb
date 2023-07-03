@@ -4,6 +4,15 @@ html{
     font-weight: bolder;    
 }
 
+header{
+    position:fixed;
+    top: auto;
+}
+nav{
+    flex-direction: column;
+    position: flex;
+    
+}
 h1{
     color: honeydew;
     text-align: center;
@@ -27,6 +36,9 @@ summary{
 }
 h2{
     color: rgb(11, 36, 1);
+    text-align: right;
+    display: flex;
+    margin-bottom: 100px;
 }
 #facebook{
     display: flex;
@@ -44,12 +56,10 @@ button{
 li{
     color: rgb(200, 219, 212);
 }
-nav{
-    flex-direction: row;
-    position: fixed;
-    
+
+a{
+
+
+
 }
 
-header{
-    position: fixed;
-}
