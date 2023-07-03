@@ -1,0 +1,42 @@
+html{
+    background-color: rgb(177, 179, 179);
+    color: rgb(67, 55, 55);
+    font-weight: bolder;
+    
+}
+h1{
+    color: honeydew;
+    text-align: center;
+    background-color: rgb(128, 163, 181);
+    font-size: 200%;
+    font-style: italic;
+    height: 150%;
+    font-weight: bold; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+#h1h{
+    color:rgb(199, 190, 209);
+    font-size: 60%;
+    
+
+}
+summary{
+    color: rgb(249, 30, 30);
+    font-weight: bolder;
+    lighting-color : blue;
+}
+h2{
+    color: darkblue;
+}
+#facebook{
+    display: flex;
+}
+button{
+    font-weight: bolder;
+    background-color: rgb(14, 150, 235);
+    color: blanchedalmond;
+    border: solid 1px rgb(60, 25, 156);
+}
+li{
+    color: rgb(200, 219, 212);
+}
